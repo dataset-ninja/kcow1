@@ -1,6 +1,6 @@
 Dataset **kcow1** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/a/m/6w/TYnaJFiQcyav1jBpQ2BEypXETSgSNUwnGil4fErKoeuXPXcmoWqA4OkcLQlIqxtLOsT4NgFES0QNuMy0UDu6wFUTRdrVMfJe2MBvr6i1qv1GNJA8SfCwjwFXPgZr.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/w/v/qG/GO3ABO5VJWVrj07DeZYD7YTqFOhiCA3pEhAyAFKlbfJoAtPfkkTIZ6tfp99PwImXNKt33huJMCGD4kv9ZGQnYe4DK71XNYGbCyMFF4ZJycpC2qIMVgmCUtPSvy7P.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
